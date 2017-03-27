@@ -1,2 +1,4 @@
 # hello-world
-just another repositary
+hi ,
+i am sanketh
+i am astudent who wants to learn coding
